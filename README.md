@@ -1,7 +1,7 @@
 # Soapy SDR module for Epiq Solutions Sidekiq
 
 ## Dependencies
-
+* libtirpc-dev
 * SoapySDR - https://github.com/pothosware/SoapySDR/wiki
 * sidekiq API - https://epiqsolutions.com/rf-transceiver/sidekiq/
 
