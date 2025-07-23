@@ -9,10 +9,14 @@
 
 ### Prerequisites: Prepare Sidekiq SDK Files
 
+The following instructions were done on a system with:
+SoapySDR 0.8.3 
+SideKiq SDK 4.18.1 - Please recall where the SDK was installed (/home/user/SideKiq,_SDK_xxx, /opt or a custom location. This will be needed for the steps below.)
+
 Go to your Sidekiq SDK directory.
 Example:
 
-This is an example of where to find your SideKiq SDK folder, This instance 4.18.1-13 was used.
+This is an example of where to find your Sidekiq SDK folder.
 ```
 cd /home/username/sidekiq_sdk_v4.18.1-13-g58be05ffb/
 ```
